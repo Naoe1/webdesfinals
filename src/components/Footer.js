@@ -106,7 +106,7 @@ export function FooterLinks() {
       links: [
         {
           label: "Contribute",
-          link: "#",
+          link: "https://github.com/Naoe1/webdesfinals",
         },
         {
           label: "React",
