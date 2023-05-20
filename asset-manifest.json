@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/webdesfinals/static/css/main.31d6cfe0.css",
+    "main.js": "/webdesfinals/static/js/main.d6342403.js",
+    "index.html": "/webdesfinals/index.html",
+    "main.d6342403.js.map": "/webdesfinals/static/js/main.d6342403.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.d6342403.js"
+  ]
+}
