@@ -323,7 +323,7 @@ let products = {
         imgUrl:
           "https://images.unsplash.com/photo-1634672350437-f9632adc9c3f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
         model: "MSI Nvidia Geforce GTX 780 Twin Frozr",
-        price: "PHP 12,000",
+        price: 12000,
         desc: "Experience stunning visuals and smooth gameplay with the MSI Nvidia Geforce GTX 780 Twin Frozr graphics card. With its advanced cooling system and powerful performance, it's a reliable choice for gaming enthusiasts.",
       },
       {
@@ -334,7 +334,7 @@ let products = {
           "https://images.unsplash.com/photo-1591489237701-57358ac6d20d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
 
         model: "Asus Dual GeForce RTX 2060 EVO",
-        price: "PHP 20,000",
+        price: 20000,
         desc: "The Asus Dual GeForce RTX 2060 EVO graphics card delivers excellent performance for gaming and content creation. With its dual-fan cooling system and 6GB GDDR6 memory, it offers a reliable and efficient solution for high-quality visuals.",
       },
       {
@@ -344,7 +344,7 @@ let products = {
         imgUrl:
           "https://images.unsplash.com/photo-1616877562286-7b0e823ddf0f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=869&q=80",
         model: "EVGA GeForce RTX 3090",
-        price: "PHP 135,000",
+        price: 135000,
         desc: "Unleash the ultimate gaming and creative power with the EVGA GeForce RTX 3090. With its groundbreaking performance and massive 24GB GDDR6X memory, it sets a new benchmark for high-end graphics cards.",
       },
       {
@@ -355,7 +355,7 @@ let products = {
           "https://images.unsplash.com/photo-1625633979481-bcbaa10165f0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
 
         model: "Radeon 6700XT",
-        price: "PHP 25,000",
+        price: 25000,
         desc: "Experience exceptional gaming performance with the Radeon 6700XT graphics card. With its advanced RDNA 2 architecture and 12GB GDDR6 memory, it delivers stunning visuals and smooth gameplay for demanding titles.",
       },
       {
@@ -364,7 +364,7 @@ let products = {
         imgUrl:
           "https://images.unsplash.com/photo-1622957040873-8ea24e293885?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=465&q=80",
         model: "Gigabyte RTX 2060",
-        price: "PHP 18,000",
+        price: 18000,
         desc: "The Gigabyte RTX 2060 graphics card offers an excellent balance of performance and value. With its 6GB GDDR6 memory and Ray Tracing support, it delivers immersive gaming experiences and smooth graphics rendering.",
       },
     ],
